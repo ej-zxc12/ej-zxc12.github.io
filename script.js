@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     <div class="message-footer">
                         <p>Here's a little something special for you...</p>
-                        <a href="https://www.youtube.com/watch?v=QfTA3a_H-XU&t=2s" target="_blank" class="youtube-button">
+                        <a href="https://www.youtube.com/watch?v=D1iLK_pcTro" target="_blank" class="youtube-button">
                             <span class="play-icon">▶️</span> Click to Watch Our Special Video
                         </a>
                     </div>
